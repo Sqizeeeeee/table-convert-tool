@@ -22,7 +22,8 @@ Install dependencies via pip:
 ```bash
 pip install pandas
 
-## Requirements
+```
+## License
 
 This project is licensed under the MIT License.
 
