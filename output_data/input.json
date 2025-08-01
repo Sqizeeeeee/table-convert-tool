@@ -1,0 +1,32 @@
+[
+  {
+    "Name":"Alice",
+    "Department":"Engineering",
+    "Salary":85000,
+    "JoinDate":"2021-04-12"
+  },
+  {
+    "Name":"Bob",
+    "Department":"Marketing",
+    "Salary":62000,
+    "JoinDate":"2020-08-03"
+  },
+  {
+    "Name":"Charlie",
+    "Department":"Engineering",
+    "Salary":91000,
+    "JoinDate":"2019-01-14"
+  },
+  {
+    "Name":"Diana",
+    "Department":"HR",
+    "Salary":56000,
+    "JoinDate":"2022-06-21"
+  },
+  {
+    "Name":"Eve",
+    "Department":"Marketing",
+    "Salary":70000,
+    "JoinDate":"2021-11-30"
+  }
+]
